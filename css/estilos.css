@@ -36,6 +36,7 @@ html,body{
 	flex-direction: column;
 	margin-left: 10px;
 	margin-right: 10px;
+	border: 2px solid black;
 }
 
 .avatar{
@@ -47,7 +48,7 @@ html,body{
 	background-size: cover;
 	margin-top: -62PX;
 	border-radius: 100%;
-	
+	border: 2px solid black;
 }
 
 .formulario{
